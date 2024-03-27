@@ -1,3 +1,7 @@
+## ℹ️ this repository has been archived 
+This code is now being maintained in Bitbucket, [here](https://bitbucket.org/xyleminc/pyyaml/src/master/)
+
+
 PyYAML - The next generation YAML parser and emitter for Python.
 
 To install, type 'python setup.py install'.
